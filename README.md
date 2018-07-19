@@ -1,1 +1,1 @@
-blog-v2-oop
+The new mini blog on PHP OOP version2.

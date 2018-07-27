@@ -146,6 +146,6 @@ class __TwigTemplate_07e5c91cf37207258040b2b411224fe998bb4cd25c078669b30af5441bc
   </div>
 </div>
 {{ include('helpers/footer.html.twig')}}
-", "home/index.html.twig", "/var/www/html/php_frameworks/symfony-test/templates/home/index.html.twig");
+", "home/index.html.twig", "/Users/niko/github/blog-v2-oop/templates/home/index.html.twig");
     }
 }

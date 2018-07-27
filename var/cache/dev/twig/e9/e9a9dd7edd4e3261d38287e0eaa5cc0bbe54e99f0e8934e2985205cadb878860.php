@@ -396,6 +396,6 @@ class __TwigTemplate_ca8bf05b33a81af159342846382a3f1f6167a031d77524247a3078315ae
         </div>
     {% endfor %}
 {% endblock %}
-", "@Debug/Profiler/dump.html.twig", "/var/www/html/php_frameworks/symfony-test/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
+", "@Debug/Profiler/dump.html.twig", "/Users/niko/github/blog-v2-oop/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
     }
 }

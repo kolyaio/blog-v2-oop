@@ -210,6 +210,6 @@ class __TwigTemplate_1e6ab658904d422a7b145d2fbdd9d59e7d8996e201c2bda7961402f1232
         {{ include('@Twig/base_js.html.twig') }}
     </body>
 </html>
-", "@Twig/layout.html.twig", "/var/www/html/php_frameworks/symfony-test/vendor/symfony/twig-bundle/Resources/views/layout.html.twig");
+", "@Twig/layout.html.twig", "/Users/niko/github/blog-v2-oop/vendor/symfony/twig-bundle/Resources/views/layout.html.twig");
     }
 }

@@ -7,7 +7,7 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
 class HomeController extends Controller{
     public function index(){
-        return $this->render('home/index.html.twig', [
+    return $this->render('home/index.html.twig', [
             'controller_name' => 'HomeController',
         ]);
     }

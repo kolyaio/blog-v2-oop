@@ -76,6 +76,6 @@ class __TwigTemplate_7160654bf04f8c61c62653b25f0ea30efd3082bf0014bd34b5dd10612c1
   </head>
 <body>
 
-", "helpers/heading.html.twig", "/var/www/html/php_frameworks/symfony-test/templates/helpers/heading.html.twig");
+", "helpers/heading.html.twig", "/Users/niko/github/blog-v2-oop/templates/helpers/heading.html.twig");
     }
 }

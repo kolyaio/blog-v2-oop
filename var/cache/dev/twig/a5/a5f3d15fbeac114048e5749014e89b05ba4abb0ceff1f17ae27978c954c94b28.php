@@ -72,6 +72,6 @@ class __TwigTemplate_60469a8305fc2c1a1fd1ab0c0be757cbadf497ec662d0aba41acb029ec1
 <script src=\"{{asset('jquery/jquery-3.3.1.min.js')}}\"></script>
 <script src=\"{{asset('java_script/bootstrap.min.js')}}\"></script>
 </html>
-", "helpers/footer.html.twig", "/var/www/html/php_frameworks/symfony-test/templates/helpers/footer.html.twig");
+", "helpers/footer.html.twig", "/Users/niko/github/blog-v2-oop/templates/helpers/footer.html.twig");
     }
 }

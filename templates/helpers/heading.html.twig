@@ -6,4 +6,24 @@
     <link href="{{asset('css/style.css')}}" rel="stylesheet">
   </head>
 <body>
-
+<nav class="navbar navbar-expand-md the-navigation">
+  <a class="navbar-brand" href="index.php">Blog</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav mx-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="blog.php">Posts</a>
+      </li>
+    </ul>
+    <ul class="navbar-nav float-left">
+      <li class="nav-item">
+        <a class="nav-link" href="registration.php">Registration</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="login.php">Log In</a>
+      </li>
+    </ul>
+  </div>
+</nav>

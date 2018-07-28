@@ -29,7 +29,7 @@ class __TwigTemplate_07e5c91cf37207258040b2b411224fe998bb4cd25c078669b30af5441bc
         echo twig_include($this->env, $context, "helpers/heading.html.twig");
         echo "
 <div class=\"container-fluid the-welcome-block\">
-  <div class=\"row\">
+  <div class=\"row justify-content-center\">
     <div class=\"col-md-12\">
       <div class=\"text-heading\">
         <h1>Welcome to the new blog</h1>
@@ -103,7 +103,7 @@ class __TwigTemplate_07e5c91cf37207258040b2b411224fe998bb4cd25c078669b30af5441bc
     {
         return new Twig_Source("{{ include('helpers/heading.html.twig')}}
 <div class=\"container-fluid the-welcome-block\">
-  <div class=\"row\">
+  <div class=\"row justify-content-center\">
     <div class=\"col-md-12\">
       <div class=\"text-heading\">
         <h1>Welcome to the new blog</h1>
@@ -146,6 +146,6 @@ class __TwigTemplate_07e5c91cf37207258040b2b411224fe998bb4cd25c078669b30af5441bc
   </div>
 </div>
 {{ include('helpers/footer.html.twig')}}
-", "home/index.html.twig", "/var/www/html/php_frameworks/symfony-test/templates/home/index.html.twig");
+", "home/index.html.twig", "/var/www/html/github-projects-php/blog-v2-oop/templates/home/index.html.twig");
     }
 }

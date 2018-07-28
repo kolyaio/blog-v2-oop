@@ -40,7 +40,33 @@ class __TwigTemplate_7160654bf04f8c61c62653b25f0ea30efd3082bf0014bd34b5dd10612c1
         echo "\" rel=\"stylesheet\">
   </head>
 <body>
-
+<nav class=\"navbar navbar-expand-md the-navigation\">
+  <a class=\"navbar-brand\" href=\"#\">Blog</a>
+  <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarCollapse\" aria-controls=\"navbarCollapse\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
+    <span class=\"navbar-toggler-icon\"></span>
+  </button>
+  <div class=\"collapse navbar-collapse\" id=\"navbarCollapse\">
+    <ul class=\"navbar-nav mx-auto\">
+      <li class=\"nav-item\">
+        <a class=\"nav-link\" href=\"#\">Posts</a>
+      </li>
+      <li class=\"nav-item\">
+        <a class=\"nav-link\" href=\"#\">Cloud</a>
+      </li>
+      <li class=\"nav-item\">
+        <a class=\"nav-link\" href=\"#\">Music Player</a>
+      </li>
+    </ul>
+    <ul class=\"navbar-nav float-left\">
+      <li class=\"nav-item\">
+        <a class=\"nav-link\" href=\"#\">Registration</a>
+      </li>
+      <li class=\"nav-item\">
+        <a class=\"nav-link\" href=\"l#\">Log In</a>
+      </li>
+    </ul>
+  </div>
+</nav>
 ";
         
         $__internal_085b0142806202599c7fe3b329164a92397d8978207a37e79d70b8c52599e33e->leave($__internal_085b0142806202599c7fe3b329164a92397d8978207a37e79d70b8c52599e33e_prof);
@@ -75,7 +101,33 @@ class __TwigTemplate_7160654bf04f8c61c62653b25f0ea30efd3082bf0014bd34b5dd10612c1
     <link href=\"{{asset('css/style.css')}}\" rel=\"stylesheet\">
   </head>
 <body>
-
-", "helpers/heading.html.twig", "/var/www/html/php_frameworks/symfony-test/templates/helpers/heading.html.twig");
+<nav class=\"navbar navbar-expand-md the-navigation\">
+  <a class=\"navbar-brand\" href=\"#\">Blog</a>
+  <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarCollapse\" aria-controls=\"navbarCollapse\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
+    <span class=\"navbar-toggler-icon\"></span>
+  </button>
+  <div class=\"collapse navbar-collapse\" id=\"navbarCollapse\">
+    <ul class=\"navbar-nav mx-auto\">
+      <li class=\"nav-item\">
+        <a class=\"nav-link\" href=\"#\">Posts</a>
+      </li>
+      <li class=\"nav-item\">
+        <a class=\"nav-link\" href=\"#\">Cloud</a>
+      </li>
+      <li class=\"nav-item\">
+        <a class=\"nav-link\" href=\"#\">Music Player</a>
+      </li>
+    </ul>
+    <ul class=\"navbar-nav float-left\">
+      <li class=\"nav-item\">
+        <a class=\"nav-link\" href=\"#\">Registration</a>
+      </li>
+      <li class=\"nav-item\">
+        <a class=\"nav-link\" href=\"l#\">Log In</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+", "helpers/heading.html.twig", "/var/www/html/github-projects-php/blog-v2-oop/templates/helpers/heading.html.twig");
     }
 }
